@@ -1,7 +1,7 @@
 $files = Get-ChildItem .
 
-# Write-Output $files[0].BaseName
-
-for ($i=0; $i -lt $files.Count; $i++) {
-    "* [{0}]({1})" -f $files[$i].BaseName, $files[$i].Name 
+foreach ($file in $files) {
+	if ($file.Extension -like ".md" -and $file.BaseName -notlike "README") {
+		"* [{0}]({1})" -f $file.BaseName, $file.Name
+	}
 }
