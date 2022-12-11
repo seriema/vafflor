@@ -1,6 +1,7 @@
 # Recept på våfflor
 
 ## Klassiska våfflor
+* [farmors-aggvafflor](farmors-aggvafflor.md)
 * [frasvafflor-med-gradde](frasvafflor-med-gradde.md)
 * [frasvafflor-utan-gradde](frasvafflor-utan-gradde.md)
 * [vanliga-vafflor-med-bakpulver](vanliga-vafflor-med-bakpulver.md)
