@@ -3,6 +3,7 @@
 4 personer
 
 ### Du behöver
+
 * 1 pkt havregrädde (2 1/2 dl)
 * 2 1/2 dl mjöl
 * 3/4 tsk bakpulver
@@ -11,6 +12,7 @@
 * 1 krm salt
 
 ### Gör så här
+
 Vispa grädden luftig med elvisp, ca 1-2 minuter.
 
 Vispa ned mjölet blandat med bakpulver, och fortsätt sedan med vattnet och det smälta smöret samt saltet.

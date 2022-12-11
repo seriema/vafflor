@@ -4,7 +4,8 @@ Goda och mättande våfflor med kryddig smak och skinka eller korv i smeten.
 
 8- 10 våfflor
 
-### Du behöver:
+### Du behöver
+
 * 4 dl mjölk
 * 3 dl havregryn
 * 1 dl grahamsmjöl
@@ -17,7 +18,8 @@ Goda och mättande våfflor med kryddig smak och skinka eller korv i smeten.
 * 2 krm paprikapulver
 * 1 krm salt
 
-### Gör så här:
+### Gör så här
+
 Blanda samman mjöl och havregryn i en bunke, tillsätt bakpulver, salt och kryddor. Fintärna skinkan. Vispa mjölk och ägg och blanda ner oljan. Vispa eller mixa i mjöl- och kryddblandningen. Rör ner skinkan.
 
 Låt nu smeten stå och svälla minst 15 minuter innan den gräddas.

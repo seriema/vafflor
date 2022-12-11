@@ -3,6 +3,7 @@
 Vispad grädde och... ja, vad tycker du om? Botanisera bland våra förslag på söta våffeltillbehör.
 
 ## Sylt med mera
+
 * [Äppelmos](http://www.kokasylt.se/appelmos)
 * [Jordgubbssylt](http://www.kokasylt.se/jordgubbssylt)
 * [Hallonsylt](http://www.kokasylt.se/hallonsylt)
@@ -12,6 +13,7 @@ Vispad grädde och... ja, vad tycker du om? Botanisera bland våra förslag på 
 * Rabarberkompott
 
 ## Frukt och bär
+
 * Hela/hackade jordgubbar eller andra bär
 * Bitar av frukt, till exempel melon, apelsin
 * [Fruktsallad](http://www.fruktrecept.se/fruktsallad)
@@ -19,6 +21,7 @@ Vispad grädde och... ja, vad tycker du om? Botanisera bland våra förslag på 
 * [Stekta äpplen](http://www.fruktrecept.se/stekta-applen)
 
 ## Övriga tillbehör
+
 * [Hemgjord vaniljglass](http://www.glassrecept.nu/vaniljglass-med-muscovadosocker)
 * [Kolasås](http://www.glassrecept.nu/kolasas-kondenserad-mjolk)
 * [Enkel chokladsås](http://www.glassrecept.nu/enkel-chokladsas)

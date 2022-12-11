@@ -2,7 +2,8 @@
 
 4 personer
 
-### Du behöver:
+### Du behöver
+
 * 100 g rumsvarmt smör
 * 4 ägg
 * 200 g ädelost
@@ -12,5 +13,6 @@
 * salt + nymalen svartpeppar
 * 2-3 msk smör eller olja till stekning
 
-### Gör så här:
+### Gör så här
+
 Vispa smör och ägg till skum. Smula ner osten och vispa vidare tills det blivit en jämn smet. Rör ner vetemjölet och sedan mjölken. Blanda slutligen ner de hackade örterna, salt och peppar. Låt smeten stå och svälla en liten stund. Grädda.

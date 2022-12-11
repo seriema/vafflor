@@ -1,6 +1,6 @@
 # Havremjölkvåfflor
 
-## Du behöver
+### Du behöver
 
 * 2 dl havremjölk
 * 2 dl vatten
@@ -9,6 +9,6 @@
 * 1 tsk vaniljsocker
 * 1½ dl smör&rapsolja (väljer du enbart rapsolja blir våfflorna mjölkfria. Red. anm.)
 
-## Gör så här
+### Gör så här
 
 Vispa samman ingredienserna. Låt svälla ca 15 minuter - grädda!

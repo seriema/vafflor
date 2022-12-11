@@ -2,7 +2,7 @@
 
 ## Gammelfarmors äggvåfflor
 
-## Du behöver
+### Du behöver
 
 * 4 ägg
 * 5 dl grädde eller mjölk
@@ -10,7 +10,7 @@
 * 5 dl vetemjöl
 * 2 tsk bakpulver
 
-## Gör så här
+### Gör så här
 
 Blanda vetemjölet och bakpulver i en bunke.
 

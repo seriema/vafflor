@@ -4,7 +4,8 @@ Söta och goda efterrättsvåfflor!
 
 4 personer
 
-### Du behöver:
+### Du behöver
+
 * 3 dl mjölk
 * 2 ägg
 * 1 dl majsstärkelse
@@ -16,7 +17,8 @@ Söta och goda efterrättsvåfflor!
 * 1 tsk vaniljsocker
 * 4 msk matolja
 
-### Gör så här:
+### Gör så här
+
 10-12 våfflor
 
 Blanda alla torrvarorna i en bunke. Vispa samman mjölk och ägg. Rör ner sylten (om du inte använder frysta bär).

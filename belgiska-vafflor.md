@@ -4,7 +4,7 @@ Detta är ett perfekt recept för rejäla, frasiga våfflor. Innehåller jäst s
 
 ## Belgiska våfflor med jäst
 
-## Du behöver:
+### Du behöver
 
 * 4 dl mjölk
 * 3 dl vatten
@@ -16,7 +16,7 @@ Detta är ett perfekt recept för rejäla, frasiga våfflor. Innehåller jäst s
 * (1 msk socker)
 * 450 g vetemjöl (ca 7,5 dl)
 
-## Gör så här:
+### Gör så här
 
 Smält smöret och blanda det varma smöret med mjölk och vatten. Kontrollera att vätskan är fingervarm - värm annars eller låt svalna.
 

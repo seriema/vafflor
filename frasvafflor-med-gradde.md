@@ -4,13 +4,15 @@
 
 4 personer
 
-### Du behöver:
+### Du behöver
+
 * 4 dl vetemjöl
 * 2 1/2 dl iskallt vatten
 * 4 dl vispgrädde
 * 4 msk smält smör
  
-### Gör så här:
+### Gör så här
+
 Cirka 8 våfflor
 
 Blanda ihop vetemjölet och det kalla vattnet till en jämn smet, gärna med elvisp.

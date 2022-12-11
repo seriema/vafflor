@@ -9,6 +9,7 @@ Våfflor
 ## Kardemumma våfflor
 
 ### Du behöver
+
 * 100 g smält smör
 * 4 ägg
 * 4-5 msk socker
@@ -18,4 +19,5 @@ Våfflor
 * 5 dl mjölk
 
 ### Gör så här
+
 Blanda bakpulver, kardemumma och vetemjöl. Häll i något mer än hälften av mjölken och rör till en jämn smet. Tillsätt äggen och resten av mjölken. Låt smeten svälla i minst 30 minuter. Smält smöret och låt det svalna lite. Rör ner det i smeten. Grädda. Servera med fina skivor getost och smör.

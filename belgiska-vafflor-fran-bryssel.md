@@ -4,7 +4,7 @@
 
 Observera! Till skillnad från övriga recept är dessa för cirka 20 laggar. Mera tips hittar du [här](antal-personer.md).
 
-## Du behöver:
+### Du behöver
 
 * 40 g jäst
 * 4 dl mineralvatten med bubblor
@@ -14,7 +14,7 @@ Observera! Till skillnad från övriga recept är dessa för cirka 20 laggar. Me
 * 8 ägg
 * 250 g smält smör
 
-## Gör så här:
+### Gör så här
 
 Till dessa våfflor används egentligen ett speciellt våffeljärn för belgiska våfflor. Detta för att baka denna typ av tjockare våfflor. Men har du ett stort, vanligt våffeljärn, som rymmer mycket smet och ger tjocka våfflor (ofta gör äldre järn det) så går det fint att grädda dessa lätta, luftiga våfflor.
 

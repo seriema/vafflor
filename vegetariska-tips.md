@@ -1,8 +1,9 @@
-#Vegetariska röror och tillbehör
+# Vegetariska röror och tillbehör
 
 Prova några matiga, vegetariska tillbehör till våfflorna och gör ett härligt plockbord av goda röror. Här är några förslag du kan prova!
 
 ## Tillbehör
+
 Använd fantasin eller ta vad du har hemma - det mesta är gott på våfflor!
 
 * Hackad röd eller gul lök, eller gräslök
@@ -16,6 +17,7 @@ Använd fantasin eller ta vad du har hemma - det mesta är gott på våfflor!
 * Dessertostar som brie, chèvre eller ädelost
 
 ## Röror och såser
+
 Ett par olika röror och såser går snabbt att svänga ihop och är ett måste till en våffelbuffé med matiga tillbehör.
 
 * [Tzatziki](http://www.sasrecept.se/tzatziki)

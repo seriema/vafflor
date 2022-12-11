@@ -4,7 +4,8 @@ Goda och frasiga våfflor som passar utmärkt både med söta och matiga tillbeh
 
 4 personer
 
-### Du behöver:
+### Du behöver
+
 * 4 dl mjölk
 * 2 ägg
 * 2 dl majsmjöl
@@ -13,8 +14,8 @@ Goda och frasiga våfflor som passar utmärkt både med söta och matiga tillbeh
 * 1 tsk bakpulver
 * 1 krm salt
 
+### Gör så här
 
-### Gör så här:
 Räcker till 10-12 våfflor.
 
 Vispa samman mjölk och ägg.
